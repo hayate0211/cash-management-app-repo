@@ -1,0 +1,1 @@
+mongodb+srv://kamyu:%406426de4989A!271828@cash-management-db.ksjznca.mongodb.net/?appName=Cash-Management-DB
