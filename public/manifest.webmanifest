@@ -1,0 +1,1 @@
+{"name":"Cash Management App","short_name":"CashApp","description":"現金管理アプリ","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#2563eb","lang":"en","scope":"/","icons":[{"src":"/money_image_800_800.png","sizes":"800x800","type":"image/png"}]}
